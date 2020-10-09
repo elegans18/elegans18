@@ -12,7 +12,7 @@
 <a href="https://medium.com/@huseyinkahraman18">
   <img align="left" alt="Hüseyin's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-
+<br />
 ### I am Hüseyin Kahraman
 - A Computer Engineering Master Student. 
 - I love to learn and contribute in any and every possible way.
