@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**elegans18/elegans18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/SourceByHuseyin">
+  <img align="left" alt="Hüseyin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/h%C3%BCseyin-kahraman-aa6336120/">
+  <img align="left" alt="Hüseyin's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/elegans18">
+  <img align="left" alt="Hüseyin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://medium.com/@huseyinkahraman18">
+  <img align="left" alt="Hüseyin's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
-Here are some ideas to get you started:
+### I am Hüseyin Kahraman
+- A Computer Engineering Master Student. 
+- I love to learn and contribute in any and every possible way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Hüseyin Kahraman](https://github.com/elegans18)
