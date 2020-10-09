@@ -13,8 +13,11 @@
   <img align="left" alt="Hüseyin's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 ### I am Hüseyin Kahraman
 - A Computer Engineering Master Student. 
 - I love to learn and contribute in any and every possible way.
 
 ⭐️ From [Hüseyin Kahraman](https://github.com/elegans18)
+
+
