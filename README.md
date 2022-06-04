@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px"></h2>
 
 <a href="https://twitter.com/SourceByHuseyin">
   <img align="left" alt="Hüseyin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,7 +16,7 @@
 
 ### I am Hüseyin Kahraman
 <br />
-- A Computer Engineering Master Student. 
+- A Computer Engineer. 
 <br />
 - I love to learn and contribute in any and every possible way.
 
